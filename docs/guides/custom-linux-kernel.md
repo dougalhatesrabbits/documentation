@@ -58,7 +58,7 @@ A common source of failure encountered during the kernel build process may be ca
 1. On a Rocky Linux distro, you can quickly get most of the necessary development tools installed by running this command:
 
     ```
-    > sudo dnf -y groupinstall 'C Development Tools and Libraries'
+    > sudo dnf -y groupinstall 'Development Tools'
     ```
 
 2. Some other libraries, header files and applications that you might need can also be obtained by installing the following packages. Type:
